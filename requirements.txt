@@ -1,0 +1,4 @@
+selenium
+kafka-python
+pymongo
+python-dotenv
